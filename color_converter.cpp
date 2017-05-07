@@ -101,3 +101,4 @@ glm::vec4 colorConverter::hexToVec4(const char* hexValue, float alpha){
     a = alpha;
     return glm::vec4(r, g, b, a);
 }
+
